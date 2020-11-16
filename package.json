@@ -13,9 +13,6 @@
     "@react-native-community/art": "^1.2.0",
     "react": "16.13.1",
     "react-native": "0.63.3",
-    "react-native-animated-circular-progress": "^1.0.6",
-    "react-native-progress-wheel": "^1.0.5",
-    "react-native-simple-gauge": "^0.3.1",
     "react-native-svg": "^12.1.0"
   },
   "devDependencies": {
